@@ -5,7 +5,7 @@ selected:       true
 pub:            ' <a href="https://ciss.jhu.edu/"> 59th Annual Conference on Information Science and Systems (CISS) </a>'
 #pub_pre:        "Submitted to "
 #pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Accepted</span> <span class="badge badge-pill badge-publication badge-primary">First Author</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Accepted</span> <span class="badge badge-pill badge-publication badge-primary">First Author</span>'
 pub_date:       "2025"
 
 abstract: >-
