@@ -1,11 +1,11 @@
 ---
 title:          Distributional and Byzantine Robust Decentralized Federated Learning
-date:           2024-12-14 00:01:00 +0800
+date:           2025-02-07 00:01:00 +0800
 selected:       true
 pub:            ' <a href="https://ciss.jhu.edu/"> 59th Annual Conference on Information Science and Systems (CISS) </a>'
 #pub_pre:        "Submitted to "
 #pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Under Review</span> <span class="badge badge-pill badge-publication badge-primary">First Author</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Accepted</span> <span class="badge badge-pill badge-publication badge-primary">First Author</span>'
 pub_date:       "2025"
 
 abstract: >-
