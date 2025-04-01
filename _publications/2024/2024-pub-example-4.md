@@ -16,6 +16,7 @@ authors:
   - Zhi Tian
 links:
   Paper:
+  Slides:  /assets/files/slides/CISS2025_4x3-present.pdf
   #Code: https://github.com/KaichuangZhang/Local-Performance-Checking
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
   #Poster: /assets/files/poster/iconp_poster.pdf
