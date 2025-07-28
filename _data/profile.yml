@@ -1,0 +1,71 @@
+primary_name: "Kaichuang Zhang"
+secondary_name: ""
+navbar_name: "Kaichuang Zhang"
+
+#positions:
+#- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#  name: Position 1 with logo
+#- name: Position 2 without logo
+
+
+email: "kaichuang.zhang01@utrgv.edu"
+cv_link: /assets/files/cv-zhangkaichuang.pdf
+gscholar: RWL94ywAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: KaichuangZhang
+#twitter: zhangkaichuang2  # Do not include the '@' symbol
+#wechat_qrcode: /assets/images/etc/wechat.jpg
+#wechat_prompt: >-
+#  Please tell me your name.
+linkedin: 开创-张-1a9569259
+#orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am currently pursuing a Master’s degree in Electrical Engineering at the <a href="https://www.utrgv.edu/"> University of Texas Rio Grande Valley </a>, within the  <a href="https://www.utrgv.edu/ece/">Department of Electrical and Computer Engineering </a>. 
+  </p>
+
+portrait_url: /assets/images/photos/head.jpg
+portrait_caption: >-
+  Photo by Kaichuang Zhang's Friend on the Great Wall.
+
+education:
+- name: University of Texas Rio Grande Valley
+  logo: /assets/images/badges/utrgv_icon.png
+  position: M.S. in Electrical Engineering
+  date: Sep. 2023 - present
+- name: Beijing University of Technology
+  logo: /assets/images/badges/bjut_icon.png
+  position: M.S. in Computer Technology
+  date: Sep. 2017 - Jul. 2020
+- name: Nanyang Institute of Technology
+  logo: /assets/images/badges/nyist_icon.png
+  position: B.S. in Computer Science and Technology
+  date: Sep. 2012 - Jul. 2016
+
+
+#experience:
+#- name: Peking University
+#  logo: /assets/images/badges/PKU_red.png
+#  position: Research Intern
+#  date: Sep. 2019 - Jul. 2021
+
+#awards:
+#- name: Award Name 2
+#  date: 2024
+#- name: Award Name 1 
+#  date: 2021
+#- name: A quick brown fox jumps over the lazy dog and runs away award
+#  date: 2021
+
+research_interests:
+- name: Distributed Learning (Federated Learning)
+  info:
+    - Security
+    - Robustness
+    - Fairness, etc.
+- name: Artificial Intelligence with
+  info: 
+    - Computer Vision
+    - LLMs
+    - IoT, etc.
