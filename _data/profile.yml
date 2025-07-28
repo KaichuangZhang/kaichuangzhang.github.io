@@ -8,7 +8,7 @@ navbar_name: "Kaichuang Zhang"
 #- name: Position 2 without logo
 
 
-email: "kaichuang.zhang01@utrgv.edu"
+email: "kaichuangzhang@usf.edu"
 cv_link: /assets/files/cv-zhangkaichuang.pdf
 gscholar: RWL94ywAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: KaichuangZhang
@@ -22,7 +22,7 @@ linkedin: 开创-张-1a9569259
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently pursuing a Master’s degree in Electrical Engineering at the <a href="https://www.utrgv.edu/"> University of Texas Rio Grande Valley </a>, within the  <a href="https://www.utrgv.edu/ece/">Department of Electrical and Computer Engineering </a>. 
+    I am currently pursuing a Ph.D. degree in Electrical Engineering at the <a href="https://www.usf.edu/"> University of South Florida </a>, within the  <a href="https://www.usf.edu/engineering/">  Department of Electrical and Computer Engineering </a>. 
   </p>
 
 portrait_url: /assets/images/photos/head.jpg
@@ -30,10 +30,14 @@ portrait_caption: >-
   Photo by Kaichuang Zhang's Friend on the Great Wall.
 
 education:
+- name: University of South Florida
+  logo: /assets/images/badges/usf-icon.png
+  position: Ph.D. in Electrical Engineering
+  date: Aug. 2025 - present
 - name: University of Texas Rio Grande Valley
   logo: /assets/images/badges/utrgv_icon.png
   position: M.S. in Electrical Engineering
-  date: Sep. 2023 - present
+  date: Sep. 2023 - May. 2025
 - name: Beijing University of Technology
   logo: /assets/images/badges/bjut_icon.png
   position: M.S. in Computer Technology
@@ -59,13 +63,13 @@ education:
 #  date: 2021
 
 research_interests:
-- name: Distributed Learning (Federated Learning)
+- name: Distributed AI
   info:
-    - Security
-    - Robustness
-    - Fairness, etc.
-- name: Artificial Intelligence with
-  info: 
-    - Computer Vision
-    - LLMs
-    - IoT, etc.
+    - CyberSecurity
+    - Federated Learning
+    - LLM etc.
+#- name: Artificial Intelligence with
+#  info: 
+#    - Computer Vision
+#    - LLMs
+#    - IoT, etc.
